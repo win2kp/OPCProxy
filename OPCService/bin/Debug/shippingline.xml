@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<opcservice timeout="300" persistence="0" port="9103" channel="ShippingLine" device="ShippingLine1" server="Kepware.KEPServerEX.V5" host="127.0.0.1">
+  <item name="ReworkIn" type="WORD" enabled="1"></item>
+  <item name="ReworkOut" type="WORD" enabled="1"></item>
+  <item name="OrderCheck" type="WORD" enabled="1"></item>
+  <item name="OrderCheckTrayType" type="WORD" enabled="1"></item>
+  <item name="ReworkWarning" type="BOOL" enabled="1"></item> 
+</opcservice>

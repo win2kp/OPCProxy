@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<opcservice timeout="3600" persistence="0"  port="9100" channel="DownScan" device="TaoDai" server="Kepware.KEPServerEX.V5" host="10.97.143.87">
+  <item name="FixtruePass" type="WORD" enabled="1"></item>
+  <item name="EmergencyPass" type="WORD" enabled="1"></item>
+</opcservice>

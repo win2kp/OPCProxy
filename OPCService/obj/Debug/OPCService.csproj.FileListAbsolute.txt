@@ -1,0 +1,16 @@
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\obj\Debug\OPCService.csprojResolveAssemblyReference.cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\asrs.xml
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\sample.xml
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\test.xml
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\robot.xml
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\downscan.xml
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\shippingline.xml
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\OPCService.exe.config
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\OPCService.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\OPCService.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\log4net.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\OPCAutomationLib.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\OPCAutomationLib.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\obj\Debug\OPCService.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\obj\Debug\OPCService.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCService\bin\Debug\log4net.xml

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<opcservice  timeout="3600" persistence="0"  port="9101" channel="Report1#" device="Report" server="Kepware.KEPServerEX.V5" host="10.97.143.87">
+  <item name="OutPDLineMESSendSNFlag" type="WORD" enabled="1"></item>
+  <item name="OutPDLineRobertReceiveSNOK" type="WORD" enabled="1"></item>
+  <item name="OutPDLineSNChar01" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar02" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar03" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar04" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar05" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar06" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar07" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar08" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar09" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar10" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar11" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar12" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar13" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar14" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineSNChar15" type="BYTE" enabled="1"></item>
+  <item name="OutPDLineReportAlreadyRec" type="BOOL" enabled="1"></item>
+</opcservice>

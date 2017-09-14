@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  注意：服务器支持对单个标记的双向读写因此无需针对每个标记为读写配置两个项目
+  <opcservice
+    timeout="客户端超过xx秒没有任何信息传输则服务器主动断开连接"
+    port="服务器监听的tcp端口"
+    channel="服务器监听的KEPWARE通道名称"
+    device="服务器监听的KEPWARE设备名称"
+    server="服务器连接的kepware实例服务器名"
+    host="KEPWARE服务所在的服务器地址"
+    persistence="是否将所有opcitem的值保存到磁盘并在下次启动时恢复"
+  >
+    <item
+      name="Tag名称(KEPWARE中配置的标记名称)"
+      type="数据类型(BOOL,BYTE,CHAR,WORD,DWORD,LONG,STRING)"
+      enabled="是否启用(1=启用/0=禁用)"
+    >item备注说明</item>
+  </opcservice>
+-->
+<opcservice timeout="3600" port="9100" channel="TestChannel1" device="TestDevice1" server="KEPware.KEPServerEx.V4" host="127.0.0.1" persistence="false">
+  <item name="Test1" type="BOOL" enabled="1">备注1</item>
+  <item name="Test2" type="BYTE" enabled="1">备注2</item>
+  <item name="Test3" type="WORD" enabled="1">备注3</item>
+  <item name="Test4" type="LONG" enabled="1">备注4</item> 
+</opcservice>

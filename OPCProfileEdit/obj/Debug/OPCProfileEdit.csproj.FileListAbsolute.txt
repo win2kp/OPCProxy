@@ -1,0 +1,8 @@
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCProfileEdit\bin\Debug\OPCProfileEdit.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCProfileEdit\bin\Debug\OPCProfileEdit.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCProfileEdit\obj\Debug\OPCProfileEdit.Form1.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCProfileEdit\obj\Debug\OPCProfileEdit.Properties.Resources.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCProfileEdit\obj\Debug\OPCProfileEdit.csproj.GenerateResource.Cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCProfileEdit\obj\Debug\OPCProfileEdit.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCProfileEdit\obj\Debug\OPCProfileEdit.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCProfileEdit\obj\Debug\OPCProfileEdit.csprojResolveAssemblyReference.cache

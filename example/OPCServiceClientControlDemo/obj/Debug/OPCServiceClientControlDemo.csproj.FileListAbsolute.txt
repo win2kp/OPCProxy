@@ -1,0 +1,10 @@
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\bin\Debug\OPCServiceClientControlDemo.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\bin\Debug\OPCServiceClientControlDemo.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\bin\Debug\OPCServiceClient.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\bin\Debug\OPCServiceClient.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\obj\Debug\OPCServiceClientControlDemo.csprojResolveAssemblyReference.cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\obj\Debug\OPCServiceClientControlDemo.Form1.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\obj\Debug\OPCServiceClientControlDemo.Properties.Resources.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\obj\Debug\OPCServiceClientControlDemo.csproj.GenerateResource.Cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\obj\Debug\OPCServiceClientControlDemo.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCServiceClientControlDemo\obj\Debug\OPCServiceClientControlDemo.pdb

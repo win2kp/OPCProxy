@@ -1,0 +1,9 @@
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCAutomationLib\obj\Debug\Interop.OPCAutomation.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCAutomationLib\obj\Debug\OPCAutomationLib.csproj.ResolveComReference.cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCAutomationLib\bin\Debug\OPCAutomationLib.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCAutomationLib\bin\Debug\OPCAutomationLib.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCAutomationLib\bin\Debug\log4net.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCAutomationLib\obj\Debug\OPCAutomationLib.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCAutomationLib\obj\Debug\OPCAutomationLib.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCAutomationLib\obj\Debug\OPCAutomationLib.csprojResolveAssemblyReference.cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCAutomationLib\bin\Debug\log4net.xml

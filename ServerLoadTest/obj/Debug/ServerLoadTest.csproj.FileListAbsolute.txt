@@ -1,0 +1,7 @@
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\ServerLoadTest\bin\Debug\ServerLoadTest.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\ServerLoadTest\bin\Debug\ServerLoadTest.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\ServerLoadTest\bin\Debug\OPCServiceClient.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\ServerLoadTest\bin\Debug\OPCServiceClient.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\ServerLoadTest\obj\Debug\ServerLoadTest.csprojResolveAssemblyReference.cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\ServerLoadTest\obj\Debug\ServerLoadTest.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\ServerLoadTest\obj\Debug\ServerLoadTest.pdb

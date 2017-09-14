@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<opcservice timeout="300" persistence="0" port="9102" channel="ASRS" device="PLC" server="Kepware.KEPServerEX.V5" host="127.0.0.1">
+  <item name="ASRSTrayReq" type="BOOL" enabled="1"></item>
+  <item name="MESTrayType" type="WORD" enabled="1"></item>
+  <item name="ASRSTrayTypeOK" type="BOOL" enabled="1"></item>
+  <item name="RfidCode01" type="LONG" enabled="1"></item>
+  <item name="RfidCode02" type="LONG" enabled="1"></item>
+  <item name="RfidCode03" type="LONG" enabled="1"></item>
+  <item name="RfidCode04" type="LONG" enabled="1"></item>
+  <item name="RfidCode05" type="LONG" enabled="1"></item>
+  <item name="RfidStatus" type="WORD" enabled="1"></item> 
+</opcservice>

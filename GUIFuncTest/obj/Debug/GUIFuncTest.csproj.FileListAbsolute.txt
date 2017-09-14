@@ -1,0 +1,12 @@
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\bin\Debug\GUIFuncTest.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\bin\Debug\GUIFuncTest.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\bin\Debug\OPCServiceClient.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\bin\Debug\OPCServiceClient.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\obj\Debug\GUIFuncTest.csprojResolveAssemblyReference.cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\obj\Debug\GUIFuncTest.Form1.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\obj\Debug\GUIFuncTest.frmAddItem.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\obj\Debug\GUIFuncTest.frmUpdateValue.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\obj\Debug\GUIFuncTest.Properties.Resources.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\obj\Debug\GUIFuncTest.csproj.GenerateResource.Cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\obj\Debug\GUIFuncTest.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\GUIFuncTest\obj\Debug\GUIFuncTest.pdb

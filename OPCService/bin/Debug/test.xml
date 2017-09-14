@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<opcservice timeout="300" port="9100" channel="TestChannel1" device="TestDevice1" server="KEPware.KEPServerEx.V4" host="127.0.0.1" persistence="false">
+  <item name="Test1" type="BOOL" enabled="1">测试1</item>
+  <item name="Test2" type="BYTE" enabled="1"></item>
+  <item name="Test3" type="WORD" enabled="1"></item>
+  <item name="Test4" type="LONG" enabled="1"></item> 
+</opcservice>

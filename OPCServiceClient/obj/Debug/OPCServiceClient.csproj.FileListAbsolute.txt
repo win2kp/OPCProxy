@@ -1,0 +1,8 @@
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCServiceClient\bin\Debug\OPCServiceClient.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCServiceClient\bin\Debug\OPCServiceClient.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCServiceClient\obj\Debug\OPCServiceClient.OPCServiceClientControl.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCServiceClient\obj\Debug\OPCServiceClient.Properties.Resources.resources
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCServiceClient\obj\Debug\OPCServiceClient.csproj.GenerateResource.Cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCServiceClient\obj\Debug\OPCServiceClient.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCServiceClient\obj\Debug\OPCServiceClient.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\OPCServiceClient\obj\Debug\OPCServiceClient.csprojResolveAssemblyReference.cache

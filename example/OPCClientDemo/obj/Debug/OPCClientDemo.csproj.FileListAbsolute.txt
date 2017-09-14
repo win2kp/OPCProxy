@@ -1,0 +1,7 @@
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCClientDemo\bin\Debug\OPCClientDemo.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCClientDemo\bin\Debug\OPCClientDemo.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCClientDemo\bin\Debug\OPCServiceClient.dll
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCClientDemo\bin\Debug\OPCServiceClient.pdb
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCClientDemo\obj\Debug\OPCClientDemo.csprojResolveAssemblyReference.cache
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCClientDemo\obj\Debug\OPCClientDemo.exe
+D:\个人工作区\ESTSH\OPCProxy\OPCProxy\example\OPCClientDemo\obj\Debug\OPCClientDemo.pdb
